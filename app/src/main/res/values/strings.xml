@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVVMTest</string>
+    <string name="search">搜索</string>
+    <string name="settings">设置</string>
+    <string name="category">板块</string>
+    <string name="divider">分隔线</string>
+    <string name="user_avatar">用户头像</string>
+    <string name="author">%s \n作者</string>
+    <string name="reply">%d \n回复</string>
+    <string name="view">%d \n查看</string>
+</resources>
